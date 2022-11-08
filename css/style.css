@@ -23,7 +23,7 @@ html{
   scroll-padding: 6rem;
   scroll-behavior: smooth;
 }
-section{
+section, footer{
   padding: 2rem 9%;
 }
 .heading{
